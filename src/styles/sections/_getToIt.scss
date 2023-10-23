@@ -1,0 +1,24 @@
+.section-get-to-it {
+	.section-content {
+		padding: 120px 0 134px;
+	}
+
+	.section-title {
+		margin-bottom: 54px;
+		font-weight: 700;
+		font-size: 31px;
+		line-height: 1;
+		text-align: center;
+		color: $main_color_text;
+	}
+	.section-buttons {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		margin: -6px;
+
+		.btn {
+			margin: 6px;
+		}
+	}
+}
